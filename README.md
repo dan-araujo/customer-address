@@ -1,4 +1,4 @@
-# Example of Design Pattern 
+# Example of Java Design Pattern 
 
 #### ☕️  Pure Java Project
 #### 🍃 Spring Java Project
