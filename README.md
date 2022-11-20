@@ -1,2 +1,9 @@
-# practice-design-patterns
- Exploring Practical Design Patterns with examples in Java
+# Example of Design Pattern Projects
+
+#### ☕️  Pure Java Project
+#### 🍃 Spring Java Project
+
+<br>
+
+**Using:** <br>
+#### 🗺 ViaCep API
